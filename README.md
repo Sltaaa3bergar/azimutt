@@ -23,6 +23,7 @@
 <p align="center">
     <a href="https://www.producthunt.com/posts/azimutt?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-azimutt" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=390699&theme=light" alt="Azimutt - Easily explore and analyze your database with your team | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
     <a href="https://azimutt.app/slack" target="_blank"><img src="assets/slack-join.svg" alt="Join us on Slack" style="width: 216px; height: 54px;" width="216" height="54"></a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2FSltaaa3bergar%2Fazimutt?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FSltaaa3bergar%2Fazimutt.svg?type=shield"/></a>
 </p>
 
 Azimutt is a **full-stack database exploration tool**.  
@@ -193,3 +194,6 @@ See more in the [stripe testing documentation](https://stripe.com/docs/testing)
 ## License
 
 The tool is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSltaaa3bergar%2Fazimutt.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FSltaaa3bergar%2Fazimutt?ref=badge_large)
