@@ -43,7 +43,7 @@
     "ajv": "8.17.1",
     "dotenv": "16.4.5",
     "env-schema": "6.0.0",
-    "fastify": "4.28.1",
+    "fastify": "5.8.5",
     "fastify-plugin": "4.5.1"
   },
   "devDependencies": {
@@ -52,7 +52,7 @@
     "@types/node": "^22.10.1",
     "@typescript-eslint/eslint-plugin": "^8.16.0",
     "@typescript-eslint/parser": "^8.16.0",
-    "esbuild": "^0.23.1",
+    "esbuild": "^0.28.1",
     "eslint": "^9.16.0",
     "eslint-config-prettier": "^9.1.0",
     "eslint-plugin-prettier": "^5.2.1",
@@ -61,7 +61,7 @@
     "prettier": "^3.4.1",
     "tsx": "^4.19.2",
     "typescript": "^5.7.2",
-    "vitest": "^2.1.6"
+    "vitest": "^4.1.8"
   },
   "repository": {
     "type": "git",
