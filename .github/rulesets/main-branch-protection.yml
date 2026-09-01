@@ -1,0 +1,19 @@
+name: Main Branch Protection
+description: Ruleset for protecting the main branch with required pull request reviews
+
+target: branch
+enforcement: active
+
+conditions:
+  ref_name:
+    include:
+      - main
+    exclude: []
+
+rules:
+  - type: pull_request
+    parameters:
+      require_code_owner_review: false
+      require_last_push_approval: false
+      dismiss_stale_reviews: false
+      require_review_thread_resolution: false
