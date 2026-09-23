@@ -16,7 +16,7 @@
   "dependencies": {
     "@azimutt/models": "workspace:^",
     "@azimutt/utils": "workspace:^",
-    "mysql2": "3.3.5"
+    "mysql2": "3.9.8"
   },
   "devDependencies": {
     "@jest/globals": "^29.7.0",
